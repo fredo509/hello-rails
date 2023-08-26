@@ -1,5 +1,0 @@
-greetingOne = Greeting.create(salutation: "Hello")
-greetingtwo = Greeting.create(salutation: "Hi")
-greetingThree = Greeting.create(salutation: "Good morning")
-greetingFour = Greeting.create(salutation: "Good evening")
-greetingFive = Greeting.create(salutation: "Good afternoon")
